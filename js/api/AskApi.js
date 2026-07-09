@@ -1,5 +1,5 @@
 export class AskApi {
-  constructor(baseUrl = "https://truxco.serveousercontent.com") {
+  constructor(baseUrl = "https://molesta.serveousercontent.com") {
     this.baseUrl = baseUrl.replace(/\/$/, "");
   }
 
